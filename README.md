@@ -1,4 +1,3 @@
-rubygsoc
-========
+# Ruby Google Summer of Code project
 
-Ruby Google Summer of Code project
+You're probably looking for the [Wiki](https://github.com/rubygsoc/rubygsoc/wiki)...
