@@ -21,7 +21,6 @@ Finally, you can chat with us in the #rubygsoc channel of the Bundler Slack. Joi
 
 Thanks!
 
-
 # Promo message:
 
 Ruby has been accepted as a project for Google Summer of Code 2018! We're looking for mentors for students who want to work on Ruby open source projects this summer. If you are interested in mentoring a student this summer, please let me know!
@@ -29,7 +28,6 @@ Ruby has been accepted as a project for Google Summer of Code 2018! We're lookin
 For more information about what it's like to be a mentor, Google has written a mentor guide: https://google.github.io/gsocguides/mentor/.
 
 We would also love contributions to the project ideas list, if you have any open source ideas that are one-student-summer sized: https://github.com/rubygsoc/rubygsoc/wiki/Ideas-List.
-
 
 # Mentor welcome message
 
@@ -41,4 +39,4 @@ I haven't cleaned up previous years yet, but this where we have posted project i
 
 Assuming that Ruby is accepted by Google, I will invite you to join the project on summerofcode.withgoogle.com. Do you have a preferred email address/Google account you want to be invited with?
 
-Thanks! 
+Thanks!
