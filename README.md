@@ -1,3 +1,4 @@
 # Ruby Google Summer of Code project
 
 [You're probably looking for the Wiki](https://github.com/rubygsoc/rubygsoc/wiki)...
+This documentation was slightly improved for clarity.
